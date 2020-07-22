@@ -3,10 +3,11 @@
 # Java 11
 
 Dependencies:
-Spring Web
-Spring Data JPA
-Rest Repositories
-H2 Database
+
+- Spring Web
+- Spring Data JPA
+- Rest Repositories
+- H2 Database
 
 # Run
 
