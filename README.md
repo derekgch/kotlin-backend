@@ -1,6 +1,6 @@
 # kotlin-backend
 
-A simple crub backend
+A simple crud backend
 
 # Java 11
 
