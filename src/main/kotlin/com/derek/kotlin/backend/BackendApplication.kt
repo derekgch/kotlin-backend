@@ -1,5 +1,7 @@
 package com.derek.kotlin.backend
 
+import com.derek.kotlin.backend.data.BookStoreModel
+import com.derek.kotlin.backend.data.BookStoreRepository
 import org.springframework.boot.ApplicationRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

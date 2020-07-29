@@ -1,6 +1,6 @@
 package com.derek.kotlin.backend.config
 
-import com.derek.kotlin.backend.BookStoreModel
+import com.derek.kotlin.backend.data.BookStoreModel
 import org.springframework.context.annotation.Configuration
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer  

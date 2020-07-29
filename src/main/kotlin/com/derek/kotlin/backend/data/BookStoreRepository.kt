@@ -1,4 +1,4 @@
-package com.derek.kotlin.backend
+package com.derek.kotlin.backend.data
 
 import org.springframework.data.repository.CrudRepository
 import org.springframework.data.rest.core.annotation.RepositoryRestResource

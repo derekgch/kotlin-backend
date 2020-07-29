@@ -1,5 +1,5 @@
 
-package com.derek.kotlin.backend
+package com.derek.kotlin.backend.data
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue
