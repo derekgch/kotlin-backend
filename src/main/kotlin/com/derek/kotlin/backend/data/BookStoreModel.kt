@@ -10,9 +10,7 @@ import javax.persistence.Id
 data class BookStoreModel(
 
   @Id
-
   @GeneratedValue(strategy = GenerationType.AUTO)
-
   var id: Long = -1,
 
   var name: String = "",
